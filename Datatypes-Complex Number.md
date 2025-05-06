@@ -28,3 +28,4 @@ print("Imaginary part:", x.imag)
 ![image](https://github.com/user-attachments/assets/98aebba8-cc9d-443d-a5f7-93864acb81ab)
 
 ## Result
+Thus,the program is executed successfully
