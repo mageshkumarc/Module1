@@ -26,7 +26,7 @@ print("c:",c)
 print("d:",d)
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/ab2c1206-8fd9-4f78-9ac0-46157ac48518)
+![image](https://github.com/user-attachments/assets/3915a19f-b669-468a-ac2f-c2cd24708cac)
 
 ## Result
 Thus,the program is executed successfully
