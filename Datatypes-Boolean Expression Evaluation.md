@@ -16,18 +16,17 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-a = 0 == True
-b = False == False
-c = True + True
-d = False + 9
-
-print("a is", a)
-print("b is", b)
-print("c:", c)
-print("d:", d)
+a=(False==True)
+b=(False==0)
+c=False+True
+d=False+5
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/b0243ce1-891c-4218-886b-5baf133a345a)
+![image](https://github.com/user-attachments/assets/ab2c1206-8fd9-4f78-9ac0-46157ac48518)
 
 ## Result
 Thus,the program is executed successfully
