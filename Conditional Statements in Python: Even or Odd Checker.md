@@ -20,7 +20,7 @@ else:
    print("ODD")
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/c7be96c3-fa22-4500-9615-814978df3a0e)
+![image](https://github.com/user-attachments/assets/3a6eaa8b-4364-4bc8-bff7-d5928141bd30)
 
 ## Result
 Thus, the program is executed sucessfully.
